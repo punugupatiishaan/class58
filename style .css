@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+    font-family: monospace;
+}
+
+img {
+    width: 400px;
+    border-radius: 40px;
+    border-color: aquamarine;
+    border-style: ridge;
+}
+
+h1 {
+    color: coral;
+    font-size: 50;
+    border-color: chartreuse;
+    border-radius: 50;
+}
+
+h2 {
+    color: crimson;
+    border-radius: 60;
+    font-family: monospace;
+
+}
+
+p {
+    background-color: beige;
+    color: fuchsia;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article: hover {
+    color: fuchsia;
+}
